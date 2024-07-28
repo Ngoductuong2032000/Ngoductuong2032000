@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 <p class="Skill-icon">
   <img width="50" height="50" src="https://img.icons8.com/plasticine/100/html-5.png" alt="html-5"/>
   <img width="50" height="50" src="https://img.icons8.com/plasticine/100/css3.png" alt="css3"/>
-  <img width="50" height="50" src="https://img.icons8.com/ios/100/javascript--v1.png" alt="javascript--v1"/>
+  <img width="50" height="50" src="https://img.icons8.com/arcade/64/javascript.png" alt="javascript"/>
   
 </p>
