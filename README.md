@@ -24,7 +24,9 @@ Here are some ideas to get you started:
   <img width="50" height="50" src="https://img.icons8.com/doodle/48/wordpress--v1.png" alt="wordpress--v1"/>
 
 ## Socials
-<img width="50" height="50" src="https://img.icons8.com/clouds/100/facebook-new.png" alt="facebook-new"/>
+<p class="socials">
+  <img width="50" height="50" src="https://img.icons8.com/clouds/100/facebook-new.png" alt="facebook-new"/>
 <img width="50" height="50" src="https://img.icons8.com/clouds/100/instagram-new--v3.png" alt="instagram-new--v3"/>
+</p>
 
 </p>
