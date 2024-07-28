@@ -1,5 +1,4 @@
 ## Hi there 👋 I'm Tường!
-## Developer
 <!--
 **Ngoductuong2032000/Ngoductuong2032000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -13,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## SKILLS
 <p class="Skill-icon">
   <img width="50" height="50" src="https://img.icons8.com/plasticine/100/html-5.png" alt="html-5"/>
