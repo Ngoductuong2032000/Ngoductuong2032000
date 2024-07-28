@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Skills
+## SKILLS
 <p class="Skill-icon">
   <img width="50" height="50" src="https://img.icons8.com/plasticine/100/html-5.png" alt="html-5"/>
   <img width="50" height="50" src="https://img.icons8.com/plasticine/100/css3.png" alt="css3"/>
@@ -23,10 +23,11 @@ Here are some ideas to get you started:
   <img width="50" height="50" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/>
   <img width="50" height="50" src="https://img.icons8.com/doodle/48/wordpress--v1.png" alt="wordpress--v1"/>
 
-## Socials
+## SOCIALS
 <p class="socials">
   <img width="50" height="50" src="https://img.icons8.com/clouds/100/facebook-new.png" alt="facebook-new"/>
-<img width="50" height="50" src="https://img.icons8.com/clouds/100/instagram-new--v3.png" alt="instagram-new--v3"/>
+  <img width="50" height="50" src="https://img.icons8.com/clouds/100/instagram-new--v3.png" alt="instagram-new--v3"/>
+  <img width="50" height="50" src="https://img.icons8.com/pulsar-color/48/twitterx.png" alt="twitterx"/>
 </p>
 
 </p>
