@@ -23,14 +23,3 @@ Here are some ideas to get you started:
   <img width="50" height="50" src="https://img.icons8.com/stickers/50/laravel.png" alt="laravel"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
   <img width="50" height="50" src="https://img.icons8.com/color/50/wordpress.png" alt="wordpress"/>
-
-## SOCIALS
-<p class="socials">
-  <img width="30" height="30" src="https://img.icons8.com/ios/50/facebook--v1.png" alt="facebook--v1"/>
-  <img width="30" height="30" src="https://img.icons8.com/ios/50/instagram-new--v1.png" alt="instagram-new--v1"/>
-  <img width="30" height="30" src="https://img.icons8.com/ios/50/twitter--v1.png" alt="twitter--v1"/>
-  <img width="30" height="30" src="https://img.icons8.com/ios/50/discord-logo.png" alt="discord-logo"/>
-  <img width="30" height="30" src="https://img.icons8.com/ios/50/skype.png" alt="skype"/>
-</p>
-
-</p>
