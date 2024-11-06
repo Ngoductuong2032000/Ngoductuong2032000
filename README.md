@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 ## SOCIALS
 <p class="socials">
-  <img width="50" height="50" src="https://img.icons8.com/ios/50/facebook--v1.png" alt="facebook--v1"/>
-  <img width="50" height="50" src="https://img.icons8.com/ios/50/instagram-new--v1.png" alt="instagram-new--v1"/>
-  <img width="50" height="50" src="https://img.icons8.com/ios/50/twitter--v1.png" alt="twitter--v1"/>
-  <img width="50" height="50" src="https://img.icons8.com/ios/50/discord-logo.png" alt="discord-logo"/>
-  <img width="50" height="50" src="https://img.icons8.com/ios/50/skype.png" alt="skype"/>
+  <img width="30" height="30" src="https://img.icons8.com/ios/50/facebook--v1.png" alt="facebook--v1"/>
+  <img width="30" height="30" src="https://img.icons8.com/ios/50/instagram-new--v1.png" alt="instagram-new--v1"/>
+  <img width="30" height="30" src="https://img.icons8.com/ios/50/twitter--v1.png" alt="twitter--v1"/>
+  <img width="30" height="30" src="https://img.icons8.com/ios/50/discord-logo.png" alt="discord-logo"/>
+  <img width="30" height="30" src="https://img.icons8.com/ios/50/skype.png" alt="skype"/>
 </p>
 
 </p>
